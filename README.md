@@ -1,4 +1,4 @@
-# file-uploader-2
+# file-uploader
 
 ## Build Setup
 
