@@ -1,8 +1,5 @@
 <template>
-  <Tutorial />
-
-
-
+  <FileUploader />
 </template>
 
 <script>
