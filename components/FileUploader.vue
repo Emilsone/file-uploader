@@ -1,5 +1,4 @@
 <template>
-  <!-- <main> -->
   <main class="min-w-screen min-h-screen flex items-center p-5 lg:p-10 overflow-hidden relative hero-section">
     <div class="border-8 border-yellow-20 rounded-lg border-dashed  absolute top-20 bottom-20 left-20 right-20 z-0">
     </div>
@@ -11,11 +10,12 @@
               <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 my-6 " fill="none" viewBox="0 0 24 24"
                 stroke="currentColor" stroke-width="2">
                 <path stroke-linecap="round" stroke-linejoin="round"
-                  d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12" />
+         - [x] Deborah 
+         d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12" />
               </svg>
             </div>
             <h2 class="text-2xl leading-7 font-semibold">
-              Drop like it's hot
+              Drop like it's ot
             </h2>
             <p class="mt-3 text-gray-600">
               No limit</p>
@@ -37,7 +37,6 @@
       </div>
     </div>
   </main>
-  <!-- </main> -->
 </template>
 
 <script>
@@ -89,3 +88,8 @@ export default {
   background-color: #5E8AD5;
 }
 </style>
+
+
+
+
+
